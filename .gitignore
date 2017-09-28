@@ -12,3 +12,5 @@ etc/
 *.egg-info
 dist
 .tox
+anybox*/
+openupgradelib/
